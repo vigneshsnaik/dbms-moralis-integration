@@ -51,5 +51,6 @@ To work with this repository, you will need the following tools installed on you
 - [Supabase CLI](https://supabase.com/docs/guides/cli)
 - [Moralis SDK](https://moralis.io/)
 
-[Frontend Repo](https://github.com/Arshad-3/dbms-miniproject-frontend)<br>
+[Frontend Repo](https://github.com/vigneshsnaik/dbms-miniproject-frontend)
+<br>
 [Solidity Contract](https://github.com/Arshad-3/dbms-web3-contract)
